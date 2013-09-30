@@ -3,13 +3,13 @@
 	<parent>
 		<groupId>br.com.arsmachina</groupId>
 		<artifactId>parent</artifactId>
-		<version>1.2.10</version>
+		<version>1.2.12</version>
 		<relativePath>../parent</relativePath>
 	</parent>
 	<artifactId>tapestry-syntax-highlighter</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<name>Tapestry Syntax Highlighter</name>
-	<description>Package that integrates into Apache Tapestry 5 the Prism syntax highlighter written byLea Verou</description>
+	<description>Package that integrates into Apache Tapestry 5 the Prism syntax highlighter written by Lea Verou</description>
 	<organization>
 		<name>Ars Machina Tecnologia da Informação Ltda.</name>
 		<url>http://arsmachina.com.br</url>
